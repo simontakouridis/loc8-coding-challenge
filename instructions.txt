@@ -1,0 +1,27 @@
+Hi Simon,
+
+Thank you for your application for the role of Junior Front End Developer at Loc8.com.
+
+The assignment below is the first step in our hiring process, before proceeding please ensure you carefully read all instructions provided. Feel free to ask any questions you may have regarding the problem or submission criteria.
+
+Please reply to this email with the assignment attached by 07/07.
+
+Submission Criteria
+Please read the following submission criteria carefully before starting work on the problem.
+Keep in mind that the solution is not the only aspect of your code we will be looking for. While we understand that this is a relatively small problem, we expect object-oriented, production quality code that is runnable, testable, extendable and reusable. You do not need to gold-plate your solution, however you should keep in mind potential extensions when designing and developing the solution.
+
+Please submit a zipped file containing the source code and a README file.
+The README should contain the following:
+A short description of your solution
+Any assumptions you have made
+Instructions for running the program
+
+Requirement:
+
+Develop an application to display polygons on map. Example attached.
+The app should also have a list control to toggle the visibility of each polygon.
+
+Thank you for your time, we look forward to seeing your solution.
+
+Cheers,
+Jay
